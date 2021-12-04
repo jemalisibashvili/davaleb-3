@@ -42,6 +42,7 @@ class PostsController extends Controller
             'title' => 'required',
             'slug' => 'required',
             'post' => 'required',
+            'keywords' => 'requierd',
             'vote_up' => 'required',
             'vote_down' => 'required',
             

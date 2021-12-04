@@ -47,6 +47,12 @@
         </div>
         <div class="col-xs-12 col-sm-12 col-md-12">
             <div class="form-group">
+                <strong>keywords:</strong>
+                <textarea class="form-control" style="height:150px" name="keywords" placeholder="keywords"></textarea>
+            </div>
+        </div>
+        <div class="col-xs-12 col-sm-12 col-md-12">
+            <div class="form-group">
                 <strong>vote_up:</strong>
                 <input type="text" name="vote_up" class="form-control" placeholder="vote_up">
             </div>
